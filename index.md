@@ -1,1 +1,1 @@
-[Repositorios de ejercicios elegidos](./repo-index.md)  
+[Ejercicios elegidos](./repo-index.md)  
