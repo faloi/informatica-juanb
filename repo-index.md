@@ -11,6 +11,8 @@ ejercicios:
     github: wollok/objetosGustos
   - name: Viajes en auto
     github: wollok/viajesEnAuto
+  - name: Spa
+    github: wollok/spa
 ---
 [volver al inicio](./index.md)  
 
