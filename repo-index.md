@@ -1,5 +1,3 @@
-# Ejercicios en Wollok
-
 ---
 layout: default
 ejercicios:
@@ -14,6 +12,10 @@ ejercicios:
   - name: Viajes en auto
     github: wollok/viajesEnAuto
 ---
+[volver al inicio](./index.md)  
+
+# Ejercicios en Wollok
+
 
 {% for ejercicio in page.ejercicios %}
   * {{ejercicio.name}} ([GitHub](https://github.com/{{ejercicio.github}}){% if ejercicio.classroom %} / [Classroom]({{ejercicio.classroom}}){% endif %})

@@ -1,3 +1,5 @@
+[volver al inicio](./index.md)  
+
 # Guías de ejercicios en PDF
 
 **Guía 1 - inicial** <br>

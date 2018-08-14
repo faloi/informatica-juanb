@@ -1,3 +1,5 @@
-[Ejercicios elegidos](./repo-index.md) <br>
-[Guías de ejercicios](./guias-ejercicios.md) <br>  
+[Ejercicios elegidos](./repo-index.md) 
+
+[Guías de ejercicios](./guias-ejercicios.md) 
+
 [Apuntes](./apuntes.md)
