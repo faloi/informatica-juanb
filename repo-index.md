@@ -9,10 +9,13 @@ ejercicios:
     classroom: https://classroom.github.com/a/aO_2yfqS
   - name: Cosas que le gustan a distintas personas
     github: wollok/objetosGustos
+    classroom: https://classroom.github.com/a/iQjzZW_g
   - name: Viajes en auto
     github: wollok/viajesEnAuto
   - name: Spa
     github: wollok/spa
+  - name: Sueldo de Pepe
+    github: wollok/polimorfismoSueldoDePepe
 ---
 [volver al inicio](./index.md)  
 
