@@ -21,7 +21,6 @@ ejercicios:
 
 # Ejercicios en Wollok
 
-
 {% for ejercicio in page.ejercicios %}
   * {{ejercicio.name}} ([GitHub](https://github.com/{{ejercicio.github}}){% if ejercicio.classroom %} / [Classroom]({{ejercicio.classroom}}){% endif %})
 {% endfor %}
@@ -29,3 +28,9 @@ ejercicios:
 <br>
 
 Hay muchos más ejercicios para mirar en el [sitio GitHub de Wollok](https://github.com/wollok)
+
+# Wollok Game
+
+En Wollok existe una herramienta visual para mostrar objetos, llamada Wollok Game. Eventualmente con ella se podrían hacer pequeños juegos, de ahí su nombre.
+
+Si quieren investigar sobre esto les recomendamos que empiecen con [este ejemplo de Pepita](https://github.com/wollok/pepitaGame/tree/demoFirstClass). En el README del repositorio explica cómo hacerlo andar.
