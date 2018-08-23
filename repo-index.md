@@ -12,8 +12,10 @@ ejercicios:
     classroom: https://classroom.github.com/a/iQjzZW_g
   - name: Viajes en auto
     github: wollok/viajesEnAuto
+    classroom: https://classroom.github.com/a/vYA0wLuw
   - name: Spa
     github: wollok/spa
+    classroom: https://classroom.github.com/a/Ai0icdEv
   - name: Sueldo de Pepe
     github: wollok/polimorfismoSueldoDePepe
 ---
