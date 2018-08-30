@@ -18,6 +18,7 @@ ejercicios:
     classroom: https://classroom.github.com/a/Ai0icdEv
   - name: Sueldo de Pepe
     github: wollok/polimorfismoSueldoDePepe
+    classroom: https://classroom.github.com/a/Wntnv_vc
   - name: Juego con personajes y elementos
     github: wollok/juegoPersonajesElementos
 ---
