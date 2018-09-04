@@ -21,6 +21,10 @@ ejercicios:
     classroom: https://classroom.github.com/a/Wntnv_vc
   - name: Juego con personajes y elementos
     github: wollok/juegoPersonajesElementos
+    classroom: https://classroom.github.com/a/PZm1ETWq
+  - name: Casa de Pepe y Julián
+    github: obj1-unahur/casaDePepeYJulian
+    classroom: https://classroom.github.com/a/waLnAp4R
 ---
 [volver al inicio](./index.md)  
 
