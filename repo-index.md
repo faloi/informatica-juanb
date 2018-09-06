@@ -25,6 +25,9 @@ ejercicios:
   - name: Casa de Pepe y Julián
     github: obj1-unahur/casaDePepeYJulian
     classroom: https://classroom.github.com/a/waLnAp4R
+  - name: Juego interactivo con Pepita
+    github: wollok/pepitaGame
+    classroom: https://classroom.github.com/a/7jFBW_sF
 ---
 [volver al inicio](./index.md)  
 
