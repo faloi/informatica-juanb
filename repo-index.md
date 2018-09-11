@@ -31,6 +31,9 @@ ejercicios:
   - name: Juego interactivo con Pepita (versión parcial)
     github: wollok/pepitaGame
     classroom: https://classroom.github.com/a/7jFBW_sF
+  - name: Golosinas
+    github: wollok/golosinas
+    classroom: https://classroom.github.com/a/iOeEyp6H
 ---
 [volver al inicio](./index.md)  
 
