@@ -1,7 +1,25 @@
+---
+layout: default
+guias:
+  - name: objetos
+  - name: objetos
+  - name: objetos
+  - name: colecciones
+  - name: clases
+  - name: herencia
+  - name: herencia
+  - name: adicionales-1er-parcial
+  - name: integradores
+  - name: extras
+  - name: colecciones-basicas
+---
+
 [volver al inicio](./index.md)  
 
 # Guías de ejercicios en PDF
 
-**Guía 1 - inicial** <br>
-[Ver](../guias_pdf/guia1-objetos.pdf)
+Ejercicios en formato "tradicional", que (aún) no tienen un proyecto en GitHub listo para clonar y empezar a trabajar.
 
+{% for guia in page.guias %}
+  [Guía {{forloop.index}} - {{guia.name}}]((../guias_pdf/guia{{forloop.index}}-{{guia.name}}.pdf))
+{% endfor %}
