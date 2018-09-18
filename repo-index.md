@@ -21,7 +21,7 @@ ejercicios:
     classroom: https://classroom.github.com/a/waLnAp4R
   - name: Camión de transporte
     github: obj1-unahur/coleccionesCamionTransporte
-    classroom: https://classroom.github.com/a/waLnAp4R
+    classroom: https://classroom.github.com/a/5p9d1U1y
   - name: Multipepita Recargada
     github: obj1-unahur-2018s2/multipepita-recargada
     classroom: https://classroom.github.com/a/lj_K-8cZ
