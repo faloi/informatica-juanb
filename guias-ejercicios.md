@@ -21,5 +21,5 @@ guias:
 Ejercicios en formato "tradicional", que (aún) no tienen un proyecto en GitHub listo para clonar y empezar a trabajar.
 
 {% for guia in page.guias %}
-  [Guía {{forloop.index}} - {{guia.name}}]((../guias_pdf/guia{{forloop.index}}-{{guia.name}}.pdf))
+  [Guía {{forloop.index}} - {{guia.name}}](../guias_pdf/guia{{forloop.index}}-{{guia.name}}.pdf)
 {% endfor %}
