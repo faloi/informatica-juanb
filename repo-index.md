@@ -19,7 +19,7 @@ ejercicios:
   - name: Casa de Pepe y Julián
     github: obj1-unahur/casaDePepeYJulian
     classroom: https://classroom.github.com/a/waLnAp4R
-    - name: Multipepita Recargada
+  - name: Multipepita Recargada
     github: obj1-unahur-2018s2/multipepita-recargada
     classroom: https://classroom.github.com/a/lj_K-8cZ  
 ejercicios-game:
