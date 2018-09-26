@@ -34,6 +34,9 @@ ejercicios:
   - name: Golosinas
     github: wollok/golosinas
     classroom: https://classroom.github.com/a/iOeEyp6H
+  - name: Flota de rodados
+    github: wollok/flotasDeRodados
+    classroom: https://classroom.github.com/a/o7Yjdyae
 ---
 [volver al inicio](./index.md)  
 
