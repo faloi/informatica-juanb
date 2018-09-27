@@ -25,6 +25,9 @@ ejercicios:
   - name: Multipepita Recargada
     github: obj1-unahur-2018s2/multipepita-recargada
     classroom: https://classroom.github.com/a/lj_K-8cZ
+  - name: Infraestructura ferroviaria
+    github: obj1-unahur-2018s2/infraFerroviaria.git
+    classroom: https://classroom.github.com/a/AV4jl0sg
 ejercicios-game:
   - name: Juego interactivo con Pepita - completo
     github: obj1-unahur/pepitaGame
