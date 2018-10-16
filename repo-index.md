@@ -28,6 +28,9 @@ ejercicios:
   - name: Infraestructura ferroviaria
     github: obj1-unahur-2018s2/infraFerroviaria.git
     classroom: https://classroom.github.com/a/AV4jl0sg
+  - name: Naves Espaciales
+    github: wollok/naves-espaciales
+    classroom: https://classroom.github.com/a/luD_7cg1
 ejercicios-game:
   - name: Juego interactivo con Pepita - completo
     github: obj1-unahur/pepitaGame
