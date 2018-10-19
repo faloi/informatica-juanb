@@ -51,6 +51,9 @@ entregas:
   - name: Flota de rodados
     github: wollok/flotasDeRodados
     classroom: https://classroom.github.com/a/o7Yjdyae
+  - name: Plagas
+    github: obj1-unahur/plagas_enunciado
+    classroom: https://classroom.github.com/a/DLVXji3G
 ---
 [volver al inicio](./index.md)  
 
