@@ -31,6 +31,9 @@ ejercicios:
   - name: Naves Espaciales
     github: wollok/naves-espaciales
     classroom: https://classroom.github.com/a/luD_7cg1
+  - name: Obreros
+    github: obj1-unahur/obreros
+    classroom: https://classroom.github.com/a/dMPWviNb 
 ejercicios-game:
   - name: Juego interactivo con Pepita - completo
     github: obj1-unahur/pepitaGame
@@ -53,10 +56,7 @@ entregas:
     classroom: https://classroom.github.com/a/o7Yjdyae
   - name: Plagas
     github: obj1-unahur/plagas_enunciado
-    classroom: https://classroom.github.com/a/DLVXji3G
-  - name: Obreros
-    github: obj1-unahur/obreros
-    classroom: https://classroom.github.com/a/dMPWviNb   
+    classroom: https://classroom.github.com/a/DLVXji3G  
     
 ---
 [volver al inicio](./index.md)  
