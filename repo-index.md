@@ -54,6 +54,10 @@ entregas:
   - name: Plagas
     github: obj1-unahur/plagas_enunciado
     classroom: https://classroom.github.com/a/DLVXji3G
+  - name: Obreros
+    github: obj1-unahur/obreros
+    classroom: https://classroom.github.com/a/dMPWviNb   
+    
 ---
 [volver al inicio](./index.md)  
 
