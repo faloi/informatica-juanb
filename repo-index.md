@@ -34,6 +34,9 @@ ejercicios:
   - name: Obreros
     github: obj1-unahur/obreros
     classroom: https://classroom.github.com/a/dMPWviNb 
+  - name: Obreros (revisado)
+    github: obj1-unahur/obreros-emergencia
+    classroom: https://classroom.github.com/a/FuvfCiBL
 ejercicios-game:
   - name: Juego interactivo con Pepita - completo
     github: obj1-unahur/pepitaGame
