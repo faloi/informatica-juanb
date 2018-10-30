@@ -60,6 +60,9 @@ entregas:
   - name: Plagas
     github: obj1-unahur/plagas_enunciado
     classroom: https://classroom.github.com/a/DLVXji3G  
+  - name: Oktubre Fest
+    github: obj1-unahur/oktubre-fest
+    classroom: https://classroom.github.com/a/XI94FuWy  
     
 ---
 [volver al inicio](./index.md)  
