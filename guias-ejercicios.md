@@ -11,7 +11,6 @@ guias:
   - name: adicionales-1er-parcial
   - name: integradores
   - name: extras
-  - name: colecciones-basicas
 ---
 
 [volver al inicio](./index.md)  
