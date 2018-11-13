@@ -64,6 +64,9 @@ entregas:
     github: obj1-unahur/oktubre-fest
     classroom: https://classroom.github.com/a/XI94FuWy  
     
+parcial:
+    classroom: https://classroom.github.com/a/8PHIY1Vw  
+    
 ---
 [volver al inicio](./index.md)  
 
