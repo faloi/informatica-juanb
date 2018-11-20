@@ -10,6 +10,9 @@ ejercicios:
   - name: Viajes en auto
     github: wollok/viajesEnAuto
     classroom: https://classroom.github.com/a/vYA0wLuw
+  - name: Remiseria
+    github: obj1-unahur/remiseria
+    classroom: https://classroom.github.com/a/yhIG0GAi  
   - name: Spa
     github: wollok/spa
     classroom: https://classroom.github.com/a/Ai0icdEv
@@ -37,6 +40,9 @@ ejercicios:
   - name: Obreros (revisado)
     github: obj1-unahur/obreros-emergencia
     classroom: https://classroom.github.com/a/FuvfCiBL
+  - name: Vendedores
+    github: wollok/vendedores
+    classroom: https://classroom.github.com/a/GOmaxpHu
 ejercicios-game:
   - name: Juego interactivo con Pepita - completo
     github: obj1-unahur/pepitaGame
@@ -63,9 +69,6 @@ entregas:
   - name: Oktubre Fest
     github: obj1-unahur/oktubre-fest
     classroom: https://classroom.github.com/a/XI94FuWy  
-    
-parcial:
-    classroom: https://classroom.github.com/a/8PHIY1Vw  
     
 ---
 [volver al inicio](./index.md)  
