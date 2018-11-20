@@ -43,6 +43,9 @@ ejercicios:
   - name: Vendedores
     github: wollok/vendedores
     classroom: https://classroom.github.com/a/GOmaxpHu
+  - name: Sueldo de Pepe (en Java)
+    github: obj1-unahur/sueldo-pepe-java
+    classroom: https://classroom.github.com/a/IcfQ0S9D
 ejercicios-game:
   - name: Juego interactivo con Pepita - completo
     github: obj1-unahur/pepitaGame
