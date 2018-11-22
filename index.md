@@ -6,5 +6,4 @@
 
 Sitio con material sobre Programación Orientada a Objetos.
 
-Encuesta de Wollok
-https://goo.gl/forms/25Acbr9drLszcyDA3
+Encuesta de Wollok <a href="https://goo.gl/forms/25Acbr9drLszcyDA3" text="link" />
