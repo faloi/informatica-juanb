@@ -46,6 +46,9 @@ ejercicios:
   - name: Sueldo de Pepe (en Java)
     github: obj1-unahur/sueldo-pepe-java
     classroom: https://classroom.github.com/a/IcfQ0S9D
+  - name: Ciudades
+    github: obj1-unahur/ciudades
+    classroom: https://classroom.github.com/a/huz89_kN
 ejercicios-game:
   - name: Juego interactivo con Pepita - completo
     github: obj1-unahur/pepitaGame
