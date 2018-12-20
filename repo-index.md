@@ -1,8 +1,5 @@
 ---
 layout: default
-final 20/12/2018:
-    classroom: https://classroom.github.com/a/K7AHavSw
-
 
 ejercicios:
   - name: Multipepita
@@ -81,7 +78,10 @@ entregas:
     classroom: https://classroom.github.com/a/XI94FuWy  
     
 ---
-[volver al inicio](./index.md)  
+[volver al inicio](./index.md) 
+
+# final 20/12/2018:
+    classroom: (https://classroom.github.com/a/K7AHavSw)
 
 # Ejercicios para trabajar en clase
 
