@@ -1,5 +1,9 @@
 ---
 layout: default
+final 20/12/2018:
+    classroom: https://classroom.github.com/a/K7AHavSw
+
+
 ejercicios:
   - name: Multipepita
     github: wollok/multipepita
