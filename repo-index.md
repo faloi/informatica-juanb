@@ -80,8 +80,8 @@ entregas:
 ---
 [volver al inicio](./index.md) 
 
-# final 20/12/2018:
-    classroom: (https://classroom.github.com/a/K7AHavSw)
+# Final 20/12/2018:
+  [Classroom](https://classroom.github.com/a/K7AHavSw)
 
 # Ejercicios para trabajar en clase
 
