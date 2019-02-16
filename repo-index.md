@@ -57,6 +57,10 @@ ejercicios-game:
   - name: Juego interactivo con Pepita (versión parcial)
     github: wollok/pepitaGame
     classroom: https://classroom.github.com/a/7jFBW_sF
+ejercicios-extra:
+  - name: Cumbre de software
+    github: obj1-unahur/cumbre-software
+    classroom: https://classroom.github.com/a/-A-FcNEZ
 entregas:
   - name: Cosas que le gustan a distintas personas
     github: wollok/objetosGustos
@@ -92,6 +96,16 @@ entregas:
 <br>
 
 Hay muchos más ejercicios para mirar en el [sitio GitHub de Wollok](https://github.com/wollok)
+
+<br>
+
+# Ejercicios para practicar
+
+{% for ejercicio in page.ejercicios-extra %}
+  * {{ejercicio.name}} ([GitHub](https://github.com/{{ejercicio.github}}){% if ejercicio.classroom %} / [Classroom]({{ejercicio.classroom}}){% endif %})
+{% endfor %}
+
+<br>
 
 # Entregas
 
