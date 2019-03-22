@@ -45,6 +45,10 @@ ul.navigation-bar-entries {
     text-decoration: none;
   }
 
+  li:last-child {
+    float: right;
+  }
+
   li.current {
     background-color: $header-bg-color;
     color: white;
