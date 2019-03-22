@@ -13,8 +13,6 @@ guias:
   - name: extras
 ---
 
-[volver al inicio](./index.md)  
-
 # Guías de ejercicios en PDF
 
 Ejercicios en formato "tradicional", que (aún) no tienen un proyecto en GitHub listo para clonar y empezar a trabajar.

@@ -37,7 +37,7 @@ ejercicios:
     classroom: https://classroom.github.com/a/luD_7cg1
   - name: Obreros
     github: obj1-unahur/obreros
-    classroom: https://classroom.github.com/a/dMPWviNb 
+    classroom: https://classroom.github.com/a/dMPWviNb
   - name: Obreros (revisado)
     github: obj1-unahur/obreros-emergencia
     classroom: https://classroom.github.com/a/FuvfCiBL
@@ -80,10 +80,8 @@ entregas:
   - name: Oktubre Fest
     github: obj1-unahur/oktubre-fest
     classroom: https://classroom.github.com/a/XI94FuWy  
-    
----
-[volver al inicio](./index.md) 
 
+---
 # Final 20/12/2018:
   [Classroom](https://classroom.github.com/a/K7AHavSw)
 

@@ -17,13 +17,3 @@ En esta página vas a encontrar _casi_ todo lo necesario para tu cursada de **Pr
 Vamos a utilizar esta página para subir material, fechas importantes y todo lo relacionado a la cursada. Tal vez sea una buena idea agregarla a los favoritos de tu navegador. :link::globe_with_meridians:
 
 Para avisos de último momento, novedades y consultas vamos a utilizar el [campus de la Universidad](http://campus.unahur.edu.ar/). Es importante que lo revises regularmente para no perderte nada.
-
-[Ejercicios elegidos](./repo-index.md)  
-[Guías de ejercicios](./guias-ejercicios.md)  
-[Apuntes](./apuntes.md)
-
-<br>
-
-Sitio con material sobre Programación Orientada a Objetos.
-
-Encuesta de Wollok <a href="https://goo.gl/forms/25Acbr9drLszcyDA3"> Link </a>
