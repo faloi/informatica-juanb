@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
+lang: es-AR
 title: Programación con Objetos I
 plugins:
   - jemoji
