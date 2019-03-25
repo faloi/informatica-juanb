@@ -1,3 +1,7 @@
+---
+layout: landing
+---
+
 ¡Bienvenido/a!
 
 En esta página vas a encontrar _casi_ todo lo necesario para tu cursada de **Programación con Objetos I**, la materia que nos reúne. Decimos _casi_ porque hay mucho material que "vive" en otras páginas, pero este sitio funcionará como punto de partida para llegar allí.
