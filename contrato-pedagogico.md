@@ -28,3 +28,7 @@ Como lo establece el régimen académico (que está linkeado más arriba), hay v
 * 4 en el parcial + 5 en el TP = **recupera ambas instancias** o **rinde evaluación integradora** (no alcanza el promedio y las notas son inferiores a 6);
 * menos de 4 en UNA instancia de evaluación = **recupera esa instancia**;
 * menos de 4 en AMBAS instancias de evaluación = **recupera ambas instancias**.
+
+## Fechas
+
+Ver el [calendario acádemico](http://www.unahur.edu.ar/es/calendario-academico) de la Universidad.
