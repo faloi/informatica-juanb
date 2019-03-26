@@ -11,6 +11,9 @@ semanas:
         * registrarte en Mumuki: [acá si cursás a la tarde](https://mumuki.io/wollok-obj1/join/6NvUVA) y [acá si cursás a la noche](https://mumuki.io/wollok-obj1/join/Bj85hg).
         **Ojo:** podés entrar con tu cuenta de Google, de GitHub o crearte una nueva dentro de Mumuki con mail y contraseña. Lo importante es que entres _siempre de la misma forma_, caso contrario no podremos registrar correctamente tu progreso
     ejercicios:
+      - name: Sueldo de Pepe (inicial)
+        repo: obj1-unahur/sueldo-pepe-inicial
+        classroom: https://classroom.github.com/a/K5Q_OYMF
       - name: Multipepita
         repo: wollok/multipepita
         classroom: https://classroom.github.com/a/4pxDNIhk
