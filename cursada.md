@@ -3,7 +3,7 @@ layout: default
 
 semanas:
   - descripcion: |
-      Vamos a trabajar con un ejercicio de diagnóstico, cuyo enunciado podés encontrar [acá](/guias_pdf/sueldoDePepe_experimentoInicial.pdf).
+      Vamos a trabajar con un ejercicio de diagnóstico, cuyo enunciado podés encontrar más abajo.
 
       Además vas a tener que cumplir algunos pasos administrativos:
         * completar la encuesta de inicio de curso, [acá](https://goo.gl/forms/OKvLH5ivKYyx0fBi1);
