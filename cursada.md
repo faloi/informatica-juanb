@@ -38,4 +38,8 @@ layout: default
 Te recomendamos resolver la guía [{{semana.mumuki.guia}}]({{semana.mumuki.url}}).
 {% endif %}
 
+{% if forloop.last == false %}
+<hr class="titulo-semana">
+{% endif %}
+
 {% endfor %}
