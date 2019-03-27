@@ -9,16 +9,6 @@ $header-heading-color: #f3f6fa !default;
   margin-bottom: 5px;
 }
 
-@media screen and (min-width: 64em) {
-  .page-header {
-    padding: 2rem 6rem;
-  }
-
-  .project-name {
-    font-size: 2.25rem;
-  }
-}
-
 body {
   margin-top: 50px;
 }
@@ -32,6 +22,10 @@ ul.navigation-bar-entries {
   position: fixed;
   top: 0;
   width: 100%;
+
+  .toggle-menu {
+    display: none;
+  }
 
   li {
     float: left;
@@ -61,4 +55,40 @@ ul.navigation-bar-entries {
 
 hr.titulo-semana {
   margin: 2rem 0;
+}
+
+@media screen and (min-width: 64em) {
+  .page-header {
+    padding: 2rem 6rem;
+  }
+
+  .project-name {
+    font-size: 2.25rem;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .navigation-bar-entries li:not(:first-child) {display: none;}
+  .navigation-bar-entries li.toggle-menu {
+    float: right;
+    display: block;
+  }
+
+  .navigation-bar-entries li.toggle-menu a:hover {
+    background-color: inherit;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .navigation-bar.responsive {position: relative;}
+  .navigation-bar.responsive li.toggle-menu {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .navigation-bar.responsive li {
+    float: none !important;
+    display: block;
+    text-align: left;
+  }
 }

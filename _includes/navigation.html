@@ -11,7 +11,7 @@
 {% endfor %}
 
 <!-- Then we build the nav bar. -->
-<nav class="navigation-bar">
+<nav id="navigation" class="navigation-bar">
     <ul class="navigation-bar-entries">
     {% for entry in site.data.navigation %}
         {% if entry.url == current_page %}
@@ -34,6 +34,11 @@
         <li{{ current }}><a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a></li>
         {% endif %}
     {% endfor %}
+    <li class="toggle-menu">
+      <a href="javascript:void(0);" onclick="toggleMenu()">
+        <i class="fa fa-bars"></i>
+      </a>
+    </li>
     <li><a href="https://mumuki.io/wollok-obj1" target="_blank">Mumuki <i class="fas fa-external-link-alt"></i></a>
     </ul>
 </nav>
