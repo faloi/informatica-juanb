@@ -3,7 +3,8 @@ layout: default
 ---
 # Semana a semana
 
-{% for semana_hash in site.data.semanas reversed %}
+{% assign semanas = site.data.semanas | sort %}
+{% for semana_hash in semanas reversed %}
 {% assign numero_semana = semana_hash[0] %}
 {% assign semana = semana_hash[1] %}
 
@@ -35,7 +36,10 @@ layout: default
 {% if semana.mumuki %}
 ### Mumuki
 
-Te recomendamos resolver la guía [{{semana.mumuki.guia}}]({{semana.mumuki.url}}).
+Te recomendamos resolver las guías:
+{% for guia in semana.mumuki %}
+* [{{guia.nombre}}]({{guia.url}})
+{% endfor %}
 {% endif %}
 
 {% if forloop.last == false %}
