@@ -1,6 +1,7 @@
 descripcion: |
+  Seguimos trabajando con Pepita, esta vez en su étapa 2.
 
 ejercicios:
-  - name: Empanadas Giménez
-    repo: wollok/polimorfismoEmpanadasGimenez
-    classroom: https://classroom.github.com/a/DlI0d1jC
+  - name: Multipepita
+    repo: wollok/multipepita
+    classroom: https://classroom.github.com/a/4pxDNIhk
