@@ -11,25 +11,33 @@ layout: default
 ## Semana {{numero_semana}}
 {{semana.descripcion}}
 
-{% if semana.ejercicios %}
-### Ejercicios para trabajar en clase
-{% assign ejercicios = semana.ejercicios %}
-{% include ejercicios-github.html ejercicios=ejercicios %}
-{% endif %}
-
-{% if semana.mumuki %}
-### Mumuki
-
-Te recomendamos resolver las guías:
-{% for guia in semana.mumuki %}
-* [{{guia.nombre}}]({{guia.url}})
-{% endfor %}
-{% endif %}
-
 {% if semana.entrega %}
+
 ### Para entregar
 {% assign fecha = semana.entrega.fecha %}
 La fecha límite para la entrega de esta semana es el <strong>{% include fecha-formato-humano.md fecha=fecha %}</strong>.
+
+**Mumuki**
+{% assign guias = semana.entrega.mumuki %}
+{% include ejercicios-mumuki.md guias=guias %}
+
+{% endif %}
+
+{% if semana.ejercicios %}
+
+### Ejercicios para trabajar en clase
+{% assign ejercicios = semana.ejercicios %}
+{% include ejercicios-github.html ejercicios=ejercicios %}
+
+{% endif %}
+
+{% if semana.mumuki %}
+
+### Mumuki
+
+Te recomendamos resolver las guías:
+{% assign guias = semana.mumuki %}
+{% include ejercicios-mumuki.md guias=guias %}
 
 {% endif %}
 

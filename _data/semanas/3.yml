@@ -19,3 +19,13 @@ mumuki:
 
 entrega:
   fecha: 2019-04-16
+  mumuki:
+    - nombre: Los booleanos
+      url: https://mumuki.io/wollok-obj1/lessons/498-objetos-y-mensajes-los-booleanos
+      ejercicios: 1, 2 y 3
+    - nombre: Atributos
+      url: https://mumuki.io/wollok-obj1/lessons/499-objetos-y-mensajes-atributos
+      ejercicios: 1 y 2
+    - nombre: Personas y barrios - qué anda, qué no, cuánto da
+      url: https://mumuki.io/wollok-obj1/lessons/482-objetos-y-mensajes-personas-y-barrios-que-anda-que-no-cuanto-da
+      ejercicios: del 1 al 8
