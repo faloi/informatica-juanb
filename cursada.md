@@ -13,24 +13,8 @@ layout: default
 
 {% if semana.ejercicios %}
 ### Ejercicios para trabajar en clase
-<table>
-    <thead>
-        <tr class="header">
-            <th>Nombre</th>
-            <th>GitHub Classroom</th>
-            <th>Repositorio original</th>
-        </tr>
-    </thead>
-    <tbody>
-      {% for ej in semana.ejercicios %}
-      <tr>
-          <td markdown="span">{{ej.name}}</td>
-          <td markdown="span">[Clonar el ejercicio]({{ej.classroom}}) <i class="fas fa-book"></i></td>
-          <td markdown="span">[Ver repositorio](https://github.com/{{ej.repo}}) <i class="fab fa-github"></i></td>
-      </tr>
-      {% endfor %}
-    </tbody>
-</table>
+{% assign ejercicios = semana.ejercicios %}
+{% include ejercicios-github.html ejercicios=ejercicios %}
 {% endif %}
 
 {% if semana.mumuki %}
