@@ -28,9 +28,8 @@ Te recomendamos resolver las guías:
 
 {% if semana.entrega %}
 ### Para entregar
-
-{% include obtener-fecha.md %}
-La fecha límite para la entrega de esta semana es el **{{fecha}}**.
+{% assign fecha = semana.entrega.fecha %}
+La fecha límite para la entrega de esta semana es el <strong>{% include fecha-formato-humano.md fecha=fecha %}</strong>.
 
 {% endif %}
 
