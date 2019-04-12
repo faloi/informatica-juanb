@@ -42,6 +42,14 @@ Te recomendamos resolver las guías:
 {% endfor %}
 {% endif %}
 
+{% if semana.entrega %}
+### Para entregar
+
+{% include obtener-fecha.md %}
+La fecha límite para la entrega de esta semana es el **{{fecha}}**.
+
+{% endif %}
+
 {% if forloop.last == false %}
 <hr class="titulo-semana">
 {% endif %}
