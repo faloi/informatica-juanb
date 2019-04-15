@@ -13,7 +13,7 @@ mumuki:
     url: https://mumuki.io/wollok-obj1/lessons/474-objetos-y-mensajes-ejercicio-integrador-viajes-en-auto
 
 entrega:
-  fecha: 2019-04-23T13:59
+  fecha: 2019-04-24T23:59
   ejercicios:
     - name: Spa
       repo: wollok/spa
