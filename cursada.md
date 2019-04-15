@@ -17,9 +17,16 @@ layout: default
 {% assign fecha = semana.entrega.fecha %}
 La fecha límite para la entrega de esta semana es el <strong>{% include fecha-formato-humano.md fecha=fecha %}</strong>.
 
-**Mumuki**
+{% assign ejercicios = semana.entrega.ejercicios %}
+{% if ejercicios %}
+{% include ejercicios-github.html ejercicios=ejercicios %}
+{% endif %}
+
 {% assign guias = semana.entrega.mumuki %}
+{% if guias %}
+**Mumuki**
 {% include ejercicios-mumuki.md guias=guias %}
+{% endif %}
 
 {% endif %}
 
