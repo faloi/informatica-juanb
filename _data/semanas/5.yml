@@ -1,0 +1,7 @@
+descripcion: |
+  Volvemos sobre el Sueldo de Pepe, el ejercicio que usamos como diagnóstico la primera clase. Esta vez te toca resolverlo utilizando Wollok y todo lo que aprendiste durante estas semanas.
+
+ejercicios:
+  - name: Sueldo de Pepe
+    repo: obj1-unahur/sueldo-pepe-objetos
+    classroom: https://classroom.github.com/a/FzxAoF1k
