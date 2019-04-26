@@ -32,3 +32,7 @@ Como lo establece el régimen académico (que está linkeado más arriba), hay v
 ## Fechas
 
 Ver el [calendario acádemico](http://www.unahur.edu.ar/es/calendario-academico) de la Universidad.
+
+## Programa
+
+Puede descargarse haciendo clic [aquí](assets/pdf/programa-obj1.pdf).
