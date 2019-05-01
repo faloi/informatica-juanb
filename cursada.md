@@ -36,6 +36,10 @@ La fecha límite para la entrega de esta semana es el <strong>{% include fecha-f
 {% assign ejercicios = semana.ejercicios %}
 {% include ejercicios-github.html ejercicios=ejercicios %}
 
+{% if semana.textoEjercicios %}
+{{semana.textoEjercicios}}
+{% endif %}
+
 {% endif %}
 
 {% if semana.mumuki %}
