@@ -28,6 +28,8 @@ La fecha límite para la entrega de esta semana es el <strong>{% include fecha-f
 {% include ejercicios-mumuki.md guias=guias %}
 {% endif %}
 
+{{semana.entrega.descripcion}}
+
 {% endif %}
 
 {% if semana.ejercicios %}

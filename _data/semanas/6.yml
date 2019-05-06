@@ -9,6 +9,8 @@ entrega:
     - name: Golosinas
       repo: obj1-unahur-2019s1/golosinas
       classroom: https://classroom.github.com/a/bW81Euhw
+  descripcion: |
+    **Ojo:** el enunciado que tienen que resolver es el que está en el archivo `1_objetos.md`. En `1_tests.md` hay una serie de tests que también deberían hacer.
 
 ejercicios:
   - name: Casa de Pepe y Julián
