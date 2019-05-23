@@ -1,6 +1,13 @@
 descripcion: |
   Continuamos con nuestra incursión por el mundo de Wollok Game, con el ejercicio de la semana pasada.
 
+  Luego, comenzamos con un ejercicio nuevo que nos dará pie a la **cuarta etapa** de la materia, que da respuesta a la siguiente pregunta: ¿cómo hacemos para no repetir código entre clases que son parecidas?
+
+ejercicios:
+  - name: Plagas
+    repo: wollok/plagas_enunciado
+    classroom: https://classroom.github.com/a/W-i7NfHa
+
 entrega:
   fecha: 2019-05-25T23:59
   ejercicios:
