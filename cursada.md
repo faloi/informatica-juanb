@@ -5,7 +5,7 @@ layout: default
 
 {% assign semanas = site.data.semanas | sort %}
 {% for semana_hash in semanas reversed %}
-{% assign numero_semana = semana_hash[0] %}
+{% assign numero_semana = semana_hash[0] | plus:0 %}
 {% assign semana = semana_hash[1] %}
 
 ## Semana {{numero_semana}}
