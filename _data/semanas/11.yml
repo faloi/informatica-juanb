@@ -1,0 +1,13 @@
+descripcion: |
+  Va la segunda parte del TP.
+
+entrega:
+  fecha: 2019-06-18T23:59
+  ejercicios:
+    - name: Huerta de Toni - game
+      repo: obj1-unahur/huertaDeToniGame
+      classroom: https://classroom.github.com/g/9w-8HqlI
+  descripcion: |
+    Como ya aclaramos en clase, esta segunda parte es **grupal** y se hace de a dos.
+
+    Van a necesitar copiarse los archivos de la entrega anterior a este nuevo proyecto: elijan lo mejor de las entregas individuales y combínenlo antes de empezar con esta segunda parte.
