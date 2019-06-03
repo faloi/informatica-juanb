@@ -1,5 +1,10 @@
 descripcion: |
-  Va la segunda parte del TP.
+  Va la segunda parte del TP. En clase, seguimos practicando herencia.
+
+ejercicios:
+  - name: Destinos
+    repo: wollok/destinos
+    classroom: https://classroom.github.com/a/qiVwt8p_
 
 entrega:
   fecha: 2019-06-18T23:59
