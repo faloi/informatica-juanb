@@ -8,6 +8,10 @@ ejercicios:
   - name: Obreros y obras
     repo: wollok/obreros-emergencia
     classroom: https://classroom.github.com/a/6qfw3JSl
+  - name: Semillas al viento
+    repo: wollok/semillas
+    classroom: https://classroom.github.com/a/cQtuEmeZ
+
 
 entrega:
   fecha: 2019-06-18T23:59
