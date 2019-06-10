@@ -6,6 +6,8 @@
 
 ## Instancias de evaluación
 
+Antes de seguir, te recomendamos que veas [este video resumen](https://www.youtube.com/watch?v=RYOGQ3d0Oqg) del régimen académico, que te va a ayudar a entender un poco más cómo se juega tu aprobación en la materia.
+
 Contaremos con dos instancias de evaluación formal (o sea, dos momentos en que le ponemos una nota numérica a tu trabajo), una hacia mitad del semestre y otra hacia el final.
 
 La primera será un parcial bastante "clásico": de carácter individual, pensado para ser resuelto durante una clase utilizando la computadora. La segunda será un trabajo práctico grupal (probablemente alguna especie de juego), que se entregará por etapas y deberá ser "defendido" de manera individual - básicamente para comprobar que todo el grupo haya participado.
@@ -35,4 +37,4 @@ Ver el [calendario acádemico](http://www.unahur.edu.ar/es/calendario-academico)
 
 ## Programa
 
-Puede descargarse haciendo clic [aquí](assets/pdf/programa-obj1.pdf).
+Podés descargarlo haciendo clic [aquí](assets/pdf/programa-obj1.pdf).
