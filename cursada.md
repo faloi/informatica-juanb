@@ -8,7 +8,7 @@ layout: default
 {% assign numero_semana = semana_hash[0] | plus:0 %}
 {% assign semana = semana_hash[1] %}
 
-## Semana {{numero_semana}}
+## [Semana {{numero_semana}}](#semana-{{numero_semana}}){: .titulo-semana}
 {{semana.descripcion}}
 
 {% if semana.entrega %}

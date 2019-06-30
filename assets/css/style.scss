@@ -5,6 +5,10 @@ $header-heading-color: #f3f6fa !default;
 
 @import "{{ site.theme }}";
 
+.titulo-semana {
+  color: #159957;
+}
+
 .project-logo {
   margin-bottom: 5px;
 }
