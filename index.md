@@ -6,9 +6,11 @@ layout: landing
 
 El objetivo de este sitio es mostrar las capacidades que ofrece [Jekyll](https://jekyllrb.com/), un generador de sitios estáticos liberado bajo la  licencia libre [MIT](https://es.wikipedia.org/wiki/Licencia_MIT). Se ofrecen para ello distintos recursos didácticos, entre los que se incluyen:
 
-* el repositorio de [este sitio](https://github.com/faloi/informatica-juanb/settings), que también está publicado bajo una [licencia MIT]([MIT](https://es.wikipedia.org/wiki/Licencia_MIT));
+* el [repositorio con el código fuente](https://github.com/faloi/informatica-juanb) de este sitio, que también está publicado bajo una [licencia MIT]([MIT](https://es.wikipedia.org/wiki/Licencia_MIT));
 * un video tutorial, que da algunas pautas sobre cómo comenzar a armarlo;
 * un artículo...
+
+¡Hace clic aquí para comenzar!
 
 
 # Sobre el autor
