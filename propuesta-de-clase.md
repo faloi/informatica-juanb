@@ -26,6 +26,6 @@ Por varios motivos, algunos prácticos y otros "filosóficos":
 
 Tomamos aquí el modelo conocido como aula invertida, siendo este sitio el principal material para el desarrollo de la clase.
 
-Trabajaremos siguiendo la guía disponible en la sección [Primeros pasos](/primeros-pasos). Esta guía contiene todo lo necesario para que lxs estudiantes puedan realizar las actividades para la clase, asumiendo entonces el o la docente un rol de acompañamiento del proceso que cada estudiante vaya haciendo.
+Trabajaremos siguiendo la guía disponible en la sección [Primeros pasos]({{ site.baseurl }}/primeros-pasos). Esta guía contiene todo lo necesario para que lxs estudiantes puedan realizar las actividades para la clase, asumiendo entonces el o la docente un rol de acompañamiento del proceso que cada estudiante vaya haciendo.
 
 Se recomienda el trabajo en pequeños grupos de 2 o 3 personas, buscando que el diálogo favorezca el aprendizaje. De ser posible, se sugiere utilizar notebooks para posibilitar la movilidad por el espacio áulico y el trabajo entre los distintos equipos.
