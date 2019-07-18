@@ -2,8 +2,15 @@
 layout: landing
 ---
 
-**Docente:** Nancy Stigliano
+# Sobre este sitio
 
-**Estudiante:** Federico Aloi
+El objetivo de este sitio es mostrar las capacidades que ofrece [Jekyll](https://jekyllrb.com/), un generador de sitios estáticos liberado bajo la  licencia libre [MIT](https://es.wikipedia.org/wiki/Licencia_MIT). Se ofrecen para ello distintos recursos didácticos, entre los que se incluyen:
 
-**Período:** 1er cuatrimestre 2019
+* el repositorio de [este sitio](https://github.com/faloi/informatica-juanb/settings), que también está publicado bajo una [licencia MIT]([MIT](https://es.wikipedia.org/wiki/Licencia_MIT));
+* un video tutorial, que da algunas pautas sobre cómo comenzar a armarlo;
+* un artículo...
+
+
+# Sobre el autor
+
+Mi nombre es **Federico Aloi** y creé este proyecto para la acreditación de la materia _Taller de Informática_, dictada por **Nancy Stigliano**.
