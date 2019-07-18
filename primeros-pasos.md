@@ -1,4 +1,4 @@
-# Un sitio web sin escribir HTML
+# Primeros pasos
 
 ## Justificación
 
@@ -16,3 +16,5 @@ Asumimos que lxs destinatarios de este sitio tienen un manejo básico de la herr
 Comenzaremos con un video-tutorial en español, que nos guiará por los pasos necesarios para crear y publicar un sitio básico:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I-d9_l7myXw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Al finalizar el tutorial deberías tener tu sitio andando, en una URL de la forma `https://tu-usuario.github.io/tu-sitio`. Por ejemplo el usuario de este sitio es `faloi` y el nombre del sitio `informatica-juanb` y la URL es `https://faloi.github.io/informatica-juanb`.

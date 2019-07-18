@@ -1,5 +1,6 @@
 theme: jekyll-theme-cayman
 lang: es-AR
+baseurl: /informatica-juanb
 google_analytics: UA-136888672-1
 title: ¿Cómo crear un sitio web sin escribir HTML?
 plugins:
