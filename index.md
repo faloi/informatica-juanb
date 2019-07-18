@@ -10,7 +10,7 @@ El objetivo de este sitio es mostrar las capacidades que ofrece [Jekyll](https:/
 * un video tutorial, que da algunas pautas sobre cómo comenzar a armarlo;
 * un artículo...
 
-[¡Hace clic aquí para comenzar!](/primeros-pasos)
+[¡Hacé clic aquí para comenzar!](/primeros-pasos)
 
 
 # Sobre el autor
